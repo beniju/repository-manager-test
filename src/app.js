@@ -6,6 +6,7 @@ http.createServer((req, res) =>{
 })
 .listen(8080);
 
-cambio del ft1
+var text = 'cambio del ft1';
+
 
 console.log('Escuchando en el puerto: 8080');
